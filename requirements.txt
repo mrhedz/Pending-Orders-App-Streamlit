@@ -1,3 +1,4 @@
 # Import python packages
 snowflake-snowpark-python
 streamlit
+requests
